@@ -1,0 +1,11 @@
+.main {
+    text-align: center;
+    padding: 20px;
+}
+#title {
+    padding: 10px;
+}
+#users {
+    padding: 10px;
+    margin: 10px;
+}

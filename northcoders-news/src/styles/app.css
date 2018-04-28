@@ -1,0 +1,28 @@
+#categories {
+    text-align: center;
+}
+#title {
+    text-align: center;
+}
+#subtitle {
+    text-align: center;
+}
+li {
+    list-style-type: none;
+}
+.App {
+    background-color: black;
+    color: white;
+}
+.Links {
+    color: white;
+}
+.homeLink {
+    color: white;
+}
+.category {
+    color: white;
+}
+#banner {
+    width: 100%;
+}
